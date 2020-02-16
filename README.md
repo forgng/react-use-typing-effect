@@ -1,6 +1,6 @@
 # use-typing-effect
 
-use-typing-effect is a simple hook to simulate the typing effect over a word or an array of words
+**use-typing-effect** is a simple hook to simulate the typing effect over a word or an array of words
 
 ![typing](./typing.gif)
 

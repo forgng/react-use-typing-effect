@@ -45,7 +45,7 @@ function useTypingEffect({
         savedMessage.current[inArrayIndex.current].slice(0, inWordIndex.current)
       );
     } else {
-      //Current word is finisched
+      //Current word is finished
       if (inArrayIndex.current < savedMessage.current.length - 1) {
         inArrayIndex.current = inArrayIndex.current + 1;
       } else if (loop) {

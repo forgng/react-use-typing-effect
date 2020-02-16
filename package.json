@@ -1,7 +1,7 @@
 {
   "version": "0.0.0",
   "license": "MIT",
-  "name": "use-typing-effect",
+  "name": "react-use-typing-effect",
   "author": "forgng",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "module": "dist/use-typing-effect.esm.js",
+  "module": "dist/react-use-typing-effect.esm.js",
   "devDependencies": {
     "@types/react": "^16.9.19",
     "@types/react-dom": "^16.9.5",

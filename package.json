@@ -3,6 +3,8 @@
   "license": "MIT",
   "name": "react-use-typing-effect",
   "author": "forgng",
+  "description": "A simple react hook to simulate the typing effect",
+  "repository": "forgng/react-use-typing-effect",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -13,6 +15,14 @@
     "build": "tsdx build",
     "lint": "tsdx lint",
     "prepare": "tsdx build"
+  },
+  "keywords": [
+    "react",
+    "typing",
+    "hook"
+  ],
+  "bugs": {
+    "url": "https://github.com/forgng/react-use-typing-effect/issues"
   },
   "peerDependencies": {
     "react": ">=16.8.0"
